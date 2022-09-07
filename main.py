@@ -16,8 +16,8 @@ print("""
 ############# KWRGN BOT İŞLEM #############
           1 - Yorum reklam sistem 
       
-          0 - Sistem Kapat
-          [?] Lütfen sistemi [0] ile kapatınız aksi taktirde doğacak hatalardan hizmetimiz sorumlu değildir!
+          0 - Sistemi yeniden başlat
+          [?] Lütfen sistemi [ctrl + c] ile kapatınız aksi taktirde doğacak hatalardan hizmetimiz sorumlu değildir!
       """)
 ########################### FUNCTİONS ########################################
 while True:
