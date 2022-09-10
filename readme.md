@@ -1,11 +1,5 @@
 # Kwrgn Instagram  Reklam Bot
-* Bota yabancı değilsinizdir botun amacı her postun altında gördüğümüz kanser Instagram botları varya işte heh buda o bot piyasasını araştırdım 500 600tl civarı bir fiyat veriyorlar gerek yok paraları vermeye ben ücretsiz şekilde size sunuyorum ilerleyen zamanlarda takip etmeyeni takipden çık gibi özelliklerde ekleyeceğim.
-
-### Kwrgn Free
-* Botun paylaştığım ücretsiz sürümüyle tam sürümü arasında çok fark yoktur sadece tam sürüm alanlar sürekli güncelleme alacak fakat ücretsiz sürüm kullananlar repoyu güncelledikçe 
-
-#### Neden Tam Sürüm Alayım ?
-* Tam sürüm kullanıcıları Free kullanıcılardan 3 Version önde olacaktır yani tam sürüme yeni özellikler eklendiğinde Erişebilecek fakat Free kullanıcılar bu özelliklere biraz daha geç erişecek.
+* Bota yabancı olduğunuzu düşünmüyorum post altlarında gördüğünüz kanser yorum botları varya heh işte ondan birtane tabiki sadece yorum özelliği yok cok fazla özelliği var
 
 ### Kwrgn Tam sürüm
 * Botun tam sürümünü almak için / destek için aşağıdaki bağlantılardan bana ulaşabilirsiniz.
